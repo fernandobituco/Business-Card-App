@@ -7,4 +7,5 @@
     <string name="label_company_name">Nome da empresa</string>
     <string name="label_color">Cor</string>
     <string name="label_confirm">CONFIRMAR</string>
+    <string name="label_success">Cartão criado com sucesso</string>
 </resources>
